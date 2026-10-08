@@ -10,7 +10,7 @@
 ## Wes Mckinney
 **Creador de la librería Pandas en Python**
 
-FOTO 1
+![Foto 1](Foto 1.jpeg)
 
 Wes Mckinney nació en 1985 en Estados Unidos. Es un emprendedor e ingeniero especializado en herramientas para desarrolladores de IA y sistemas de datos. Es fundador en Kenn Software. También es arquitecto principal de Posit, donde contribuyó a la estrategia de Python e IA. Es fundador de Voltron Data, Usar Labs y Datapad. Desde 2008, lleva desarrollando proyectos de software. Actualmente, la mayor parte de su trabajo se implementa a través de Kenn Software:agentsview para la búsqueda de sesiones y el análisis de tokens en agentes de codificación. 
 
